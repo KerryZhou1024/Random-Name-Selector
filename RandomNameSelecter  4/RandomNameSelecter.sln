@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNameSelecter", "RandomNameSelecter\RandomNameSelecter.csproj", "{F7B25190-FA38-4715-B7E5-7C27901E064B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Res", "Res", "{29F24784-F655-43AD-B7B9-2EF4C74AFE1D}"
+	ProjectSection(SolutionItems) = preProject
+		..\Random.ico = ..\Random.ico
+		..\RandomlyList.ico = ..\RandomlyList.ico
+		..\RandomTask.png = ..\RandomTask.png
+		..\..\Downloads\Select_Mousedown.png = ..\..\Downloads\Select_Mousedown.png
+		..\..\Downloads\Select_MouseEnter.png = ..\..\Downloads\Select_MouseEnter.png
+		..\..\Downloads\Select_Origin.png = ..\..\Downloads\Select_Origin.png
+		..\Start.ico = ..\Start.ico
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7B25190-FA38-4715-B7E5-7C27901E064B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B25190-FA38-4715-B7E5-7C27901E064B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B25190-FA38-4715-B7E5-7C27901E064B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B25190-FA38-4715-B7E5-7C27901E064B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF7FDBB2-40D7-42D6-927D-E10182CCE5BE}
+	EndGlobalSection
+EndGlobal
